@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FD81
+- 👋 Hi, I’m @FD81, a lecturer of politics and international relations.
 - 👀 I’m interested in the use of Natural Language Processing to analyse dynamics of change in the political identity of Islamist movements.
 - 🌱 I’m currently trying to learn as much as I can about NLP and the related coding activities.
 - 💞️ I’m looking to collaborate with data scientists that are interested in this type of project, in particular if they experience with Arabic NLP.
